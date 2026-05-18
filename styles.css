@@ -1,0 +1,45 @@
+.chango-regular {
+  font-family: "Chango", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20231223/pngtree-aesthetic-clouds-on-blue-sky-with-vintage-background-and-texture-image_13858963.png');
+    background-size:cover;
+    padding: 0px;
+    margin: 0px;
+    font-family: Chango, sans-serif;   
+}
+.landing{
+    height: 500px;
+    display:grid;
+    place-items: center;
+}
+.light {
+    font-weight: lighter;
+    margin-top: -100px;
+}
+.buttons {
+    margin-top: -100px;
+}
+.click{
+    background-color: #A7C7E7;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.par1 {
+    color:blue;
+    font-weight: 200;
+}
+.par2 {
+    color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.par3 {
+    color:brown;
+}
+footer {
+    background-color: #A7C7E7;
+}
